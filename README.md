@@ -11,4 +11,4 @@ Steps to make instalation Enviroment---
 
 -----------------------------------------------------------------------------------------------------------
 
-![](image/Capture.png)
+![](image/Capture.PNG)
